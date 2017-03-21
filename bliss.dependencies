@@ -2,7 +2,7 @@
   {
     "repository": "Pacer456/android_device_oneplus_bacon",
     "target_path": "device/oneplus/bacon",
-    "revision": "Bliss N7.1",
+    "revision": "Bliss-N7.1",
     "remote": "github"
   },
 {
