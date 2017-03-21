@@ -1,0 +1,2 @@
+add_lunch_combo bliss_bacon-userdebug
+add_lunch_combo bliss_bacon-eng
